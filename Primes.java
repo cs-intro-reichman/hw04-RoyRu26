@@ -23,6 +23,6 @@ public class Primes {
                 System.out.println(i);
             }
         }
-        System.out.println("There are " + primeNum + " primes between 2 and " + N + " (" + (N * 10)/(primeNum - 1) + "%) are primes");
+        System.out.println("There are " + primeNum + " primes between 2 and " + N + " (" + (N * 10)/(primeNum - 1) + "% are primes)");
     }
 }
