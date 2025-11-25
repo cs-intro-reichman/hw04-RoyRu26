@@ -29,8 +29,7 @@ public class MyString {
         }
         return low;
     }
-    //hellowrold
-    //     world
+
     /** If str1 contains str2, returns true; otherwise returns false. */
     public static boolean contains(String str1, String str2) {
         for (int i = 0; i <= str1.length() - str2.length(); i++) {
